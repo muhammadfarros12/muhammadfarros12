@@ -1,4 +1,4 @@
-### Hi there 👋
+### Halo Semua!
 
 <!--
 **muhammadfarros12/muhammadfarros12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Muhammad Farroos Al Ammaar**.
+
+saya seorang pemula di **Android Developer**, dan juga antusias di **Backend Developer**.
+
+Jika anda tertarik dengan saya. Silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/muhammad-farroos/).
+
