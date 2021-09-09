@@ -1,5 +1,4 @@
-### Halo Semua!
-
+### Halo Semua!👋
 <!--
 **muhammadfarros12/muhammadfarros12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,8 +22,17 @@ Jika anda tertarik dengan saya. Silahkan ikuti akun [LinkedIn](https://www.linke
 
 <p align="left">
 <a href="https://github.com/muhammadfarros12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfarros12&theme=bear"/>
 </a>
 </p>
+
+<p align="left">
+<a href="https://github.com/muhammadfarros12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadfarros12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadfarros12&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadfarros12&theme=github)
+ 
 
