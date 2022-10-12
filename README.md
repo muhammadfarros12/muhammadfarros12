@@ -23,8 +23,6 @@ Perkenalkan nama saya
 
 <h1 align="center">Muhammad Farroos Al Ammaar.</h1>  
 
-saya seorang pemula di **Android Developer**, dan juga antusiast di **Backend Developer**.
-
 Jika anda tertarik dengan saya. Silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/muhammad-farroos/) saya.
 
 <p align="left">
