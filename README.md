@@ -1,7 +1,5 @@
 ### Halo Semua!👋
 ![](https://komarev.com/ghpvc/?username=muhammadfarros1&color=brightgreen)
-[![Visits Badge](https://badges.pufler.dev/visits/muhammadfarros12/muhammadfarros12)](https://github.com/muhammadfarros12)
-[![Years Badge](https://badges.pufler.dev/years/muhammadfarros12)](https://badges.pufler.dev)
 
 <!--
 **muhammadfarros12/muhammadfarros12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
